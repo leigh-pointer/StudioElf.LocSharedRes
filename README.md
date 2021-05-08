@@ -8,3 +8,6 @@ When the module is built for Debug the module dll and the language resource are 
 When the module is built for Release two packages are created; one for the module the other for the Localization (
 
 For this module example I chose Dutch (nl-NL) and will be needed to be setup in you Oqtane instance.
+
+![PackageIconNL](https://user-images.githubusercontent.com/9447612/117536950-535ba100-affe-11eb-95d1-71f07c913ed4.png)
+

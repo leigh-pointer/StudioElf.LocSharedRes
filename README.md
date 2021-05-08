@@ -1,4 +1,4 @@
-# StudioElf.LocSharedRes
+# Oqtane - StudioElf.LocSharedRes
 Example: How to create Localised Module for Oqtane.  This solution also uses a SharedResource.resx for shared language resources.
 
 The solutions is set up to run standalone.  This is done by adding the Oqtane.Server project to the solution. 

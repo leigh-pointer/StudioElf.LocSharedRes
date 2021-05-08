@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>    
+    <Version>1.0.0</Version>
+    <Product>StudioElf.LocSharedRes</Product>
+    <Authors>StudioElf</Authors>
+    <Company>StudioElf</Company>
+    <Description></Description>
+    <Copyright>StudioElf</Copyright>
+    <AssemblyName>StudioElf.LocSharedRes.Shared.Oqtane</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.ComponentModel.Annotations" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Oqtane.Shared" Version="2.0.2" />
+  </ItemGroup>
+
+</Project>
